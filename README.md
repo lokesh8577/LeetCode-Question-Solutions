@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
+| [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
