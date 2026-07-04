@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
+| [1991-find-the-middle-index-in-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3866-first-unique-even-element](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3866-first-unique-even-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
