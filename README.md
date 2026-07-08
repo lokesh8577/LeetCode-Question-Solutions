@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +78,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## String
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
