@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
 | [1288-remove-covered-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3866-first-unique-even-element](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -54,14 +55,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3866-first-unique-even-element](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
@@ -86,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0131-palindrome-partitioning) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
