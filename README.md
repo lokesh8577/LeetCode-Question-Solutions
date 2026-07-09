@@ -65,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3866-first-unique-even-element](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
 | [3866-first-unique-even-element](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
 | [1288-remove-covered-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1288-remove-covered-intervals) |
 ## Math
 |  |
@@ -89,9 +92,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
