@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3866-first-unique-even-element](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3866-first-unique-even-element) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Matrix
 |  |
 | ------- |
