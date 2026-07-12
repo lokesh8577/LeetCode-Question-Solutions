@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
 | [0491-non-decreasing-subsequences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
