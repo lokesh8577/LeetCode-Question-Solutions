@@ -135,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
