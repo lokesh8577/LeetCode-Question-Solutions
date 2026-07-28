@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3146-permutation-difference-between-two-strings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0773-sliding-puzzle) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
