@@ -17,7 +17,7 @@ private:
         }
     }
 
-    void Solve(TreeNode* root, int k, unordered_map<TreeNode*, TreeNode*> mp,
+    void Solve(TreeNode* root, int k, unordered_map<TreeNode*, TreeNode*> &mp,
                int count, vector<int>& ans,
                unordered_map<TreeNode*, bool>& visited) {
         if (root == NULL) {
