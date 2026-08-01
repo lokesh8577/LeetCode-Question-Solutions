@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
 | [0773-sliding-puzzle](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0773-sliding-puzzle) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Stack
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0089-gray-code) |
+| [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -299,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-linked-list-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0817-linked-list-components) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
