@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0773-sliding-puzzle) |
 | [0817-linked-list-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0817-linked-list-components) |
 | [0867-transpose-matrix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0877-stone-game) |
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1260-shift-2d-grid) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
 | [0773-sliding-puzzle](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0773-sliding-puzzle) |
+| [0877-stone-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0877-stone-game) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Stack
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0877-stone-game) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -310,4 +313,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
