@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0817-linked-list-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0817-linked-list-components) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Recursion
 |  |
