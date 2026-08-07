@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3310-remove-methods-from-project) |
