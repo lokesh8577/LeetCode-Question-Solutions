@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2392-build-a-matrix-with-conditions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
+| [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3866-first-unique-even-element](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0877-stone-game) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -374,4 +379,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2392-build-a-matrix-with-conditions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
