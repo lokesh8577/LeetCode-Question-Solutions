@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0726-number-of-atoms](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0726-number-of-atoms) |
 | [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0424-longest-repeating-character-replacement](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0726-number-of-atoms) |
 | [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0784-letter-case-permutation) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
