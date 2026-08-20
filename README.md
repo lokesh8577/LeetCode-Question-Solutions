@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
