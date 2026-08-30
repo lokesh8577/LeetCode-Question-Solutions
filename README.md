@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2392-build-a-matrix-with-conditions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
