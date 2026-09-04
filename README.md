@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2392-build-a-matrix-with-conditions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1020-number-of-enclaves) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
