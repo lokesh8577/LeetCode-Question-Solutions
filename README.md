@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0547-number-of-provinces) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0463-island-perimeter) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0207-course-schedule) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2392-build-a-matrix-with-conditions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Queue
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0207-course-schedule) |
 | [2392-build-a-matrix-with-conditions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Minimax
 |  |
