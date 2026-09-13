@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0733-flood-fill) |
 | [0773-sliding-puzzle](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0773-sliding-puzzle) |
 | [0817-linked-list-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0817-linked-list-components) |
+| [0835-image-overlap](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0881-boats-to-save-people) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0733-flood-fill) |
 | [0773-sliding-puzzle](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0773-sliding-puzzle) |
+| [0835-image-overlap](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
