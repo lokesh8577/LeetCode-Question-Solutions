@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -551,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
