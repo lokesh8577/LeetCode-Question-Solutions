@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
 | [0881-boats-to-save-people](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0881-boats-to-save-people) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
