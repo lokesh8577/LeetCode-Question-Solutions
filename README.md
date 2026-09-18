@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1630-arithmetic-subarrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1630-arithmetic-subarrays) |
 | [1656-design-an-ordered-stream](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1630-arithmetic-subarrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1630-arithmetic-subarrays) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
