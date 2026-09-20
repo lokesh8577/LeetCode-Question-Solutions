@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
