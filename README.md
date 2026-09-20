@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0053-maximum-subarray) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0001-two-sum) |
 | [0355-design-twitter](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0424-longest-repeating-character-replacement) |
