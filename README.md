@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0231-power-of-two) |
 | [0491-non-decreasing-subsequences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0784-letter-case-permutation) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0190-reverse-bits) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Tree
 |  |
