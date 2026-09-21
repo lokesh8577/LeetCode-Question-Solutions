@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0053-maximum-subarray) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0344-reverse-string) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0726-number-of-atoms](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0726-number-of-atoms) |
 | [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
