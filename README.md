@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0773-sliding-puzzle) |
 | [0817-linked-list-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0817-linked-list-components) |
 | [0835-image-overlap](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0835-image-overlap) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0773-sliding-puzzle) |
 | [0877-stone-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0940-distinct-subsequences-ii) |
