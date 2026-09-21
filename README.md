@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0881-boats-to-save-people) |
