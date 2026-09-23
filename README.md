@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0726-number-of-atoms](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0726-number-of-atoms) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1656-design-an-ordered-stream](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1656-design-an-ordered-stream) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Topological Sort
 |  |
