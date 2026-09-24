@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0463-island-perimeter) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0089-gray-code) |
