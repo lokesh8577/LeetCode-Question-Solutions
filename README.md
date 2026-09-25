@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0726-number-of-atoms](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0726-number-of-atoms) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Monotonic Stack
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
+| [1096-brace-expansion-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Bit Manipulation
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1020-number-of-enclaves) |
+| [1096-brace-expansion-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
 | [0817-linked-list-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0817-linked-list-components) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1096-brace-expansion-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -412,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0784-letter-case-permutation) |
 | [0940-distinct-subsequences-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
