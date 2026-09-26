@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0130-surrounded-regions) |
+| [0149-max-points-on-a-line](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0355-design-twitter](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Kosaraju's Algorithm
@@ -682,10 +686,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0149-max-points-on-a-line) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0149-max-points-on-a-line) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Doubly-Linked List
 |  |
