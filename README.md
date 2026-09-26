@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1630-arithmetic-subarrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1630-arithmetic-subarrays) |
 | [1656-design-an-ordered-stream](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1656-design-an-ordered-stream) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1630-arithmetic-subarrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1630-arithmetic-subarrays) |
 | [1656-design-an-ordered-stream](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1656-design-an-ordered-stream) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2502-design-memory-allocator](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2502-design-memory-allocator) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
