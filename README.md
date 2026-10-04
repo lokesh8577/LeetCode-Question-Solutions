@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0463-island-perimeter) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -733,4 +736,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0146-lru-cache) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
