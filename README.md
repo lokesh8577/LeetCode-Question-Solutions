@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2502-design-memory-allocator](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2502-design-memory-allocator) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
