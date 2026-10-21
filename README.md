@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0494-target-sum) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0130-surrounded-regions) |
+| [0212-word-search-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0498-diagonal-traverse) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0344-reverse-string) |
@@ -828,4 +832,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0494-target-sum) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
