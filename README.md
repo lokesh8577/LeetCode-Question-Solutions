@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0647-palindromic-substrings) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0547-number-of-provinces) |
@@ -855,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -868,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0322-coin-change) |
 ## Shortest Path
 |  |
 | ------- |
