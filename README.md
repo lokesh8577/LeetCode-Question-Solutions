@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1020-number-of-enclaves](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
 | [0817-linked-list-components](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0817-linked-list-components) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1096-brace-expansion-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2029-stone-game-ix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2029-stone-game-ix) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
