@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1410-html-entity-parser](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1410-html-entity-parser) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1392-longest-happy-prefix) |
+| [1410-html-entity-parser](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1410-html-entity-parser) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
