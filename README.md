@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0647-palindromic-substrings) |
 | [0881-boats-to-save-people](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1630-arithmetic-subarrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1630-arithmetic-subarrays) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
