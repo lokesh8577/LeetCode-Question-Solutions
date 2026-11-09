@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0647-palindromic-substrings) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0076-minimum-window-substring) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
@@ -811,10 +814,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Randomized
 |  |
@@ -919,4 +924,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0855-exam-room](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0855-exam-room) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
