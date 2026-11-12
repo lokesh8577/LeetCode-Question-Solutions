@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
