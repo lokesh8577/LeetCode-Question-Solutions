@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-design-memory-allocator](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2502-design-memory-allocator) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2409-count-days-spent-together](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
