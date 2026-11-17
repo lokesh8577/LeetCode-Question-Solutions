@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0498-diagonal-traverse) |
+| [0525-contiguous-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0695-max-area-of-island) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0525-contiguous-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0726-number-of-atoms) |
 | [0767-reorganize-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0767-reorganize-string) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1004-max-consecutive-ones-iii) |
