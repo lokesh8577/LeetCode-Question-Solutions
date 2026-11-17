@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -995,4 +998,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
