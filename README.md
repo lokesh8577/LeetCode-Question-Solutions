@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
