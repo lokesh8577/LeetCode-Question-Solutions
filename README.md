@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0131-palindrome-partitioning) |
