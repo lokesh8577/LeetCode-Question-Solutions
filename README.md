@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0881-boats-to-save-people) |
+| [0931-minimum-falling-path-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0773-sliding-puzzle) |
 | [0877-stone-game](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0894-all-possible-full-binary-trees) |
+| [0931-minimum-falling-path-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1014-best-sightseeing-pair](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1137-n-th-tribonacci-number](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0773-sliding-puzzle) |
 | [0835-image-overlap](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0867-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1020-number-of-enclaves) |
