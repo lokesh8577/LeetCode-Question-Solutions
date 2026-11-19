@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1331-rank-transform-of-an-array](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1572-matrix-diagonal-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2392-build-a-matrix-with-conditions](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
