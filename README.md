@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
