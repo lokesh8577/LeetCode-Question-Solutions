@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3866-first-unique-even-element) |
+| [3934-smallest-unique-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3934-smallest-unique-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1392-longest-happy-prefix) |
+| [3934-smallest-unique-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -913,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/1392-longest-happy-prefix) |
+| [3934-smallest-unique-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1045,4 +1050,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/lokesh8577/LeetCode-Question-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
